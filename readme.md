@@ -41,3 +41,5 @@ e.g select table1.attr1,table2.attr2 from table1,table2 where table1.attr1=table
 
 
 there is an empty database given called Mydatabase, with four tables in it for tests.
+
+ps. this project is developed in c-free 5.
